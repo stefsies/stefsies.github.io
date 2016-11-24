@@ -1,7 +1,14 @@
 body {
-	background-image: url(/unit_3/images/Penguins.jpg);
+	background-image: url("../images/Penguins.jpg");
 	background-size: cover;
-}
-h1, p {
 	color: teal;
+}
+h1 {
+	color: black;
+}
+#slogan {
+font-style: italic;
+}
+#contactus  {
+	text-decoration: none;
 }
