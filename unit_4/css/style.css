@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Boogaloo');
+
+body {
+	font-family: 'Boogaloo', cursive;
+	background-image: url("../images/Penguins.jpg");
+	background-size: cover;
+	color: teal;
+}
+h1 {
+	color: black;
+}
+#slogan {
+font-style: italic;
+}
+#contactus  {
+	text-decoration: none;
+}
