@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Boogaloo');
+@import url('https://fonts.googleapis.com/css?family=Boogaloo|Overlock');
 
 body {
 	font-family: 'Boogaloo', cursive;
@@ -7,6 +7,7 @@ body {
 	color: teal;
 }
 h1 {
+	font-family: 'Overlock', cursive;
 	color: black;
 }
 #slogan {
